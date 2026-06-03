@@ -1,4 +1,4 @@
-# EnzoDev Studio
+# Enzo Games Studio
 
 ![icons (2)](https://github.com/user-attachments/assets/e51293b0-2ea2-4b02-9916-000249e9f9f6)
 
